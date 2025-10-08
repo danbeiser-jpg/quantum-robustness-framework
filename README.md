@@ -11,7 +11,7 @@ Key Finding
 We report the empirical discovery of a universal quantum-classical boundary at R_critical = 0.70 ± 0.02 through retrospective analysis of 23 quantum systems. The robustness metric R = (1−γ)exp(−S(ρ)) achieves perfect binary classification (23/23 correct, 95% CI: [85.2%, 100%]) for quantum advantage prediction across all major computing platforms.
 Repository Contents
 quantum-robustness-framework/
-├── README.md                          # This file
+```├── README.md                          # This file
 ├── LICENSE                            # CC BY 4.0 License
 ├── requirements.txt                   # Python dependencies
 ├── data/
@@ -29,7 +29,7 @@ quantum-robustness-framework/
 │   ├── 02_threshold_analysis.ipynb    # Statistical validation
 │   └── 03_bell_correlation_test.ipynb # Computational validation
 └── figures/
-    └── generate_figures.py            # Reproduce paper figures (optional)
+    └── generate_figures.py            # Reproduce paper figures (optional)```
 Quick Start
 Installation
 bash# Clone the repository

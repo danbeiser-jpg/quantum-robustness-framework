@@ -1,3 +1,42 @@
+# An Entropy-Based Robustness Framework for Quantum Advantage
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+## Paper
+
+**Status:** Submitted to arXiv (processing)  
+**PDF:** [An_Entropy_Based_Robustness_Framework.pdf](An_Entropy_Based_Robustness_Framework.pdf)  
+**Expected publication:** Sunday evening (US time)
+
+### Key Finding
+
+Architecture-independent quantum-classical boundary at **R = 0.70 ± 0.02** achieving **100% classification accuracy** across 23 quantum systems spanning 6 architectures (superconducting, trapped ion, neutral atom, photonic, silicon spin) and 32-6,100 qubits.
+
+---
+
+## Repository Contents
+
+- **Paper PDF** - Manuscript submitted to arXiv
+- `data/` - System parameters for all 23 analyzed quantum systems
+- `requirements.txt` - Python dependencies
+
+## Citation
+```bibtex
+@article{beiser2025quantum,
+  title={An Entropy-Based Robustness Framework for Quantum Advantage: Empirical Analysis of the R = 0.70 Threshold Across Quantum Computing Platforms},
+  author={Beiser, Dan},
+  journal={arXiv preprint arXiv:XXXX.XXXXX},
+  note={Submitted, processing},
+  year={2025}
+}
+```
+
+*arXiv identifier will be updated when paper goes live*
+
+## Contact
+
+Dan Beiser - dan.beiser@gmail.com  
+ORCID: [0009-0001-9032-4361](https://orcid.org/0009-0001-9032-4361)
 #Quantum Robustness Framework for Quantum Advantage Prediction
 Show Image
 Show Image
